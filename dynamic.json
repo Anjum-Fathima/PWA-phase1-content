@@ -1,0 +1,56 @@
+{
+	"profile":{
+		"img":"prabhas.jpg",
+		"name":"Anjum Fathima",
+		"roll":"16A31A0561",
+		"institute":"pragati",
+		"place":"ramachandrapuram"
+	},
+	"career":{
+		"info":"to reach higher levels"
+
+	},
+	"education":[
+		{
+         "sno":"1",
+         "degree":"btech",
+         "institute":"pragati",
+         "yop":"2020"
+		},
+		{
+         "sno":"2",
+         "degree":"inter",
+         "institute":"narayana",
+         "yop":"2016"
+		},
+		{
+         "sno":"3",
+         "degree":"10th",
+         "institute":"GV & KBM",
+         "yop":"2014"
+		}
+	],
+	"language":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"hindi"
+		}
+
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
